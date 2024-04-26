@@ -1,0 +1,40 @@
+steps:
+
+    a) check previous version and make a note of it.
+    b) stop webserver i.e. nginx
+
+1. curl -v
+
+2. sudo yum install curl -y
+
+3. curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+
+4. source ~/.bashrc
+
+5. nvm ls-remote
+
+6. nvm install v14.19.0
+
+7. nvm use v14.19.0
+
+8. nvm alias default v14.19.0
+
+9. npm uninstall -g pm2
+
+10. npm install -g pm2
+
+11. pm2 update
+
+12. pm2 delete all
+
+13. sh start.sh
+
+14. pm2 save
+
+15. pm2 list (see if services are running)
+
+16. restart web server i.e. nginx
+
+17. Try sending requests
+
+In case of any error, revert to previous version

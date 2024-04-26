@@ -1,0 +1,530 @@
+[
+  {
+    "winner_bracket_start": 1,
+    "winner_bracket_end": 1,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 100
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 2,
+    "winner_bracket_end": 2,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 66.67
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 33.33
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 3,
+    "winner_bracket_end": 3,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 50
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 33.33
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 16.67
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 4,
+    "winner_bracket_end": 4,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 40
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 30
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 20
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 10
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 5,
+    "winner_bracket_end": 9,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 40
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 25
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 15
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 9,
+        "percent": 20
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 10,
+    "winner_bracket_end": 19,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 25
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 15
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 10
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 7.5
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 7.5
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 19,
+        "percent": 35
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 20,
+    "winner_bracket_end": 49,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 25
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 15
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 7.5
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 3.75
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 3.75
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 15
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 49,
+        "percent": 30
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 50,
+    "winner_bracket_end": 99,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 20
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 10
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 5
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 2.5
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 2.5
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 10
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 20,
+        "percent": 15
+      },
+      {
+        "rank_start": 21,
+        "rank_end": 99,
+        "percent": 35
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 100,
+    "winner_bracket_end": 199,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 20
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 10
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 5
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 1.5
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 1
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 5
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 20,
+        "percent": 7.5
+      },
+      {
+        "rank_start": 21,
+        "rank_end": 50,
+        "percent": 20
+      },
+      {
+        "rank_start": 51,
+        "rank_end": 199,
+        "percent": 30
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 200,
+    "winner_bracket_end": 499,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 10
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 5
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 2.5
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 1.25
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 1.25
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 5
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 20,
+        "percent": 5
+      },
+      {
+        "rank_start": 21,
+        "rank_end": 50,
+        "percent": 15
+      },
+      {
+        "rank_start": 51,
+        "rank_end": 100,
+        "percent": 20
+      },
+      {
+        "rank_start": 101,
+        "rank_end": 499,
+        "percent": 35
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 500,
+    "winner_bracket_end": 999,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 10
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 5
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 2.5
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 1.25
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 1.25
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 5
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 20,
+        "percent": 5
+      },
+      {
+        "rank_start": 21,
+        "rank_end": 50,
+        "percent": 7.5
+      },
+      {
+        "rank_start": 51,
+        "rank_end": 100,
+        "percent": 10
+      },
+      {
+        "rank_start": 101,
+        "rank_end": 200,
+        "percent": 17.5
+      },
+      {
+        "rank_start": 201,
+        "rank_end": 999,
+        "percent": 35
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 1000,
+    "winner_bracket_end": 1999,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 8
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 4
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 2
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 0.75
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 0.75
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 2
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 20,
+        "percent": 2.5
+      },
+      {
+        "rank_start": 21,
+        "rank_end": 50,
+        "percent": 6
+      },
+      {
+        "rank_start": 51,
+        "rank_end": 100,
+        "percent": 8
+      },
+      {
+        "rank_start": 101,
+        "rank_end": 200,
+        "percent": 10
+      },
+      {
+        "rank_start": 201,
+        "rank_end": 500,
+        "percent": 21
+      },
+      {
+        "rank_start": 501,
+        "rank_end": 1999,
+        "percent": 35
+      }
+    ]
+  },
+  {
+    "winner_bracket_start": 2000,
+    "winner_bracket_end": 9999999,
+    "distribution": [
+      {
+        "rank_start": 1,
+        "rank_end": 1,
+        "percent": 6
+      },
+      {
+        "rank_start": 2,
+        "rank_end": 2,
+        "percent": 3
+      },
+      {
+        "rank_start": 3,
+        "rank_end": 3,
+        "percent": 1.5
+      },
+      {
+        "rank_start": 4,
+        "rank_end": 4,
+        "percent": 0.5
+      },
+      {
+        "rank_start": 5,
+        "rank_end": 5,
+        "percent": 0.5
+      },
+      {
+        "rank_start": 6,
+        "rank_end": 10,
+        "percent": 1.5
+      },
+      {
+        "rank_start": 11,
+        "rank_end": 20,
+        "percent": 2
+      },
+      {
+        "rank_start": 21,
+        "rank_end": 50,
+        "percent": 4.5
+      },
+      {
+        "rank_start": 51,
+        "rank_end": 100,
+        "percent": 5
+      },
+      {
+        "rank_start": 101,
+        "rank_end": 200,
+        "percent": 8
+      },
+      {
+        "rank_start": 201,
+        "rank_end": 500,
+        "percent": 15
+      },
+      {
+        "rank_start": 501,
+        "rank_end": 1000,
+        "percent": 17.5
+      },
+      {
+        "rank_start": 1001,
+        "rank_end": 9999999,
+        "percent": 35
+      }
+    ]
+  }
+]

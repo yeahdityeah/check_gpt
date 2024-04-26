@@ -1,0 +1,27 @@
+# docker-compose.yml
+version: '3'
+services:
+
+  database:
+    ports:
+        - "5432:5432"
+    container_name: 'theox_postgres'
+    build:
+        context: ./postgres
+        dockerfile: 'Dockerfile'
+
+  message_queue:
+    image: 'rabbitmq:3.9.5-management'
+    container_name: 'theox_rabbitmq'
+    ports:
+        - 5672:5672
+        - 15672:15672
+    volumes:
+        - ~/var/rabbitmq/data/:/var/lib/rabbitmq/
+        - ~/var/redrabbitmqis/logs/:/var/log/rabbitmq/
+
+  caching:
+    container_name: 'theox_redis'
+    image: "redis:5.0.13"
+    ports:
+        - "6379:6379"
